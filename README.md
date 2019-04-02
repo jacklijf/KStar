@@ -1,3 +1,0 @@
-# KStar
-BPM project
-sdfasdfasdfasdfasfdasdf
